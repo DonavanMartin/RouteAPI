@@ -9,3 +9,5 @@
 *bin
 *.bin
 *bin
+*.DS_Store
+*.mf
