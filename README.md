@@ -1,2 +1,2 @@
 # RouteAPI
-Get started with path solver API. This program is for testing and using people to get started with post-receive and managing request.
+Get started with path solver API. This program is for testing and helping developpers to get started with post-receive and managing path-finding API request.
